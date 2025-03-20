@@ -1,0 +1,2 @@
+Netlify site id = a19d7969-3922-44cf-9864-5f94768f0905
+Netlify Token = nfp_PedDiFNnhYMsyS4bj3NDSuwWr32h3ZnW333c
